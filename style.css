@@ -1,6 +1,13 @@
 body{
-  margin: 0px;
-
+    margin: 0px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 80%;
+    box-shadow: 10px 10px 50px gray;
+    border: solid rgba(26, 25, 25, 0.404);
+    border-radius: 2%;
 }
 
 
