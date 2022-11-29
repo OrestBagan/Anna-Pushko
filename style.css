@@ -1,6 +1,6 @@
 body{
-  margin: 0px;
-
+    margin: 0px;
+    
 }
 
 
@@ -16,7 +16,7 @@ body{
     background-color: rgba(128, 128, 128, 0.267);
 }
 .about_conteiner{
-    margin-left: 120px;
+    margin-left: 200px;
     max-width: 745px;
     text-align: center;
 }
@@ -24,7 +24,7 @@ body{
 .img{
     width: 325px;
     height: 500px;
-    margin-left: 120px;
+    margin-left: 40px;
 }
 
 .about{
@@ -35,5 +35,7 @@ body{
 
 .main_txt{
     display: flex;
+    height: 300px;
+    
 }
 
