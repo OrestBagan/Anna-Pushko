@@ -1,51 +1,26 @@
-.main_content{
-
+.mac{
+    max-width: 100%;
 }
 
 .main_name{
-
+    font-size: 125px;
+    text-align: right;
+    margin-right: 340px;
 }
 
-.name{
-
+.img{
+    width: 325px;
+    height: 500px;
+    
 }
 
 .about{
     display: flex;
 }
 
-.about_img{
 
-}
-
-.img{
-
-}
-
-.about_conteiner{
-
-}
-
-.about_txt_main{
-
-}
-
-.about_txt{
-
-}
 
 .main_txt{
     display: flex;
 }
 
-.content_txt_1{
-
-}
-
-.content_txt_2{
-
-}
-
-.content_txt_3{
-    
-}
