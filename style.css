@@ -1,12 +1,14 @@
 body{
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 0px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
     max-width: 80%;
     box-shadow: 10px 10px 50px gray;
-    border: solid;
-    border-radius: 10px;
+    border: solid rgba(26, 25, 25, 0.404);
+    border-radius: 2%;
+
 }
 
 
@@ -22,7 +24,7 @@ body{
     background-color: rgba(128, 128, 128, 0.267);
 }
 .about_conteiner{
-    margin-left: 120px;
+    margin-left: 200px;
     max-width: 745px;
     text-align: center;
 }
@@ -30,7 +32,7 @@ body{
 .img{
     width: 325px;
     height: 500px;
-    margin-left: 120px;
+    margin-left: 40px;
 }
 
 .about{
@@ -41,5 +43,7 @@ body{
 
 .main_txt{
     display: flex;
+    height: 300px;
+    
 }
 
