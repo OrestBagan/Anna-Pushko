@@ -3,8 +3,8 @@ body {
     margin: 0px;
     height: 1500px;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(/images2.png);
-    background-size: 100%;
+    /* background-image: url(/images2.png);
+    background-size: 100%; */
 }
 
 .main{
@@ -60,3 +60,4 @@ li {
     text-shadow: 1px 1px 10px rgb(142, 2, 2);
     border-radius: 100px;
 }
+
