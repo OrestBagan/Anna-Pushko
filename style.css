@@ -1,5 +1,6 @@
 body{
   margin: 0px;
+  background-color: rgb(82, 54, 119);
 }
 
 
@@ -7,13 +8,13 @@ body{
     font-size: 125px;
     text-align: right;
     margin-right: 340px;
+    text-shadow: 10px 10px 20px purple ;
 }
 
 .img{
     width: 325px;
     height: 500px;
     margin-left: 120px;
-    box-shadow: 20px 80px 400px 400px grey;
 }
 
 .about{
