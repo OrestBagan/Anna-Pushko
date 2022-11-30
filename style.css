@@ -46,7 +46,9 @@ body{
     display: flex;
 }
 
-
+.about_txt{
+    font-size: 18px;
+}
 
 .main_txt{
     display: flex;
