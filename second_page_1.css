@@ -17,7 +17,7 @@ body {
     width: 100%;
     max-height: 50px;
     display: flex;
-    background-color: #2b003a;
+    background-color: #323232;
     box-shadow: 0px 0px 7px 0px rgb(0 0 0 / 20%);
     top: 0px;
     transition: 0.3s;
@@ -50,14 +50,31 @@ li {
     font-size: 26px;
     text-align: center;
     text-decoration: none;
-    color: #ff00f2;
+    color: azure;
     display: block;
     
 }
 
 .a:hover{
     opacity: 80%;
-    text-shadow: 1px 1px 10px rgb(142, 2, 2);
+    text-shadow: 1px 1px 10px rgb(103, 103, 103);
     border-radius: 100px;
 }
 
+.main-content{
+    max-width: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.txt-box{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: solid;
+    box-shadow: 1px 1px 15px black;
+    min-height: 100%;
+}
+
+.txt{
+    font-size: 20px;
+}
