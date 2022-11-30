@@ -75,12 +75,22 @@ li {
     box-shadow: 10px 10px 50px rgba(128, 128, 128, 0.726);
     background-color: rgb(214, 214, 214);
     min-height: 100%;
+    display: flex;
+}
+
+.img{
+    margin-top: 4px;
+    width: 320px;
+    height: 450px;
+    border: solid 1px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 30px rgba(0, 0, 0, 0.726);
 }
 
 .txt{
     margin: 10px;
     font-size: 20px;
-    width: 900px;
+    width: 980px;
 }
 
 a{
