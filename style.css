@@ -73,6 +73,7 @@ body{
     width: 300px;
     text-align: center;
     border: solid 1px;
+    border-radius: 10px;
     box-shadow: 10px 10px 50px rgba(128, 128, 128, 0.726);
 }
 
@@ -82,6 +83,7 @@ body{
     width: 300px;
     text-align: center;
     border: solid 1px;
+    border-radius: 10px;
     box-shadow: 10px 10px 50px rgba(128, 128, 128, 0.726);
 }
 
@@ -91,6 +93,7 @@ body{
     width: 300px;
     text-align: center;
     border: solid 1px;
+    border-radius: 10px;
     box-shadow: 10px 10px 50px rgba(128, 128, 128, 0.726);
 }
 
@@ -102,3 +105,35 @@ li{
     text-shadow: 5px 3px 10px rgba(128, 128, 128, 0.548);
 }
 
+a{
+    text-decoration: none;
+    color: black;
+    border: solid 1px;
+    border-radius: 3px;
+    text-align: right;
+    vertical-align: bottom;
+
+}
+
+a:hover{
+    background-color:rgba(0, 0, 0, 0.849);
+    color:rgb(128, 128, 128);
+    transition: 0.5s;
+} 
+
+.button_1{
+    width: 61.3px;
+    margin-left: 230px;
+    margin-top: 100px;
+}
+
+.button_2{
+    width: 61.3px;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.button_3{
+    width: 61.3px;
+    margin-left: 230px;
+    margin-top: 30px;
+}
